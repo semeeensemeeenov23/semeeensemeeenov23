@@ -47,11 +47,6 @@ Frontend-разработчик из Уфы. Собираю интерфейсы
 | [105workRedux](https://github.com/semeeensemeeenov23/105workRedux) | JavaScript, Redux |
 | [calculator](https://github.com/semeeensemeeenov23/calculator) | JavaScript |
 
----
-
-## 📊 Статистика
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semeeensemeeenov23&layout=compact&theme=dark)
 
 ---
 
