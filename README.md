@@ -1,6 +1,6 @@
 # Привет! Я Ильдар 👋
 
-Начинающий Frontend-разработчик из Уфы. Собираю интерфейсы на React и TypeScript.
+Начинающий Frontend-разработчик из Уфы. Собираю интерфейсы на React и TypeScript. Изучал JavaScript на учебных проектах.
 
 ---
 
@@ -35,6 +35,20 @@
 
 ---
 
+## 📚 Учебные проекты на JavaScript
+
+Проекты, на которых я изучал основы:
+
+| Проект | Технологии |
+|--------|------------|
+| [-71-](https://github.com/semeeensemeeenov23/-71-) | JavaScript |
+| [react18Working](https://github.com/semeeensemeeenov23/react18Working) | JavaScript, React |
+| [91work](https://github.com/semeeensemeeenov23/91work) | JavaScript |
+| [105workRedux](https://github.com/semeeensemeeenov23/105workRedux) | JavaScript, Redux |
+| [calculator](https://github.com/semeeensemeeenov23/calculator) | JavaScript |
+
+---
+
 ## 📊 Статистика
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semeeensemeeenov23&layout=compact&theme=dark)
@@ -43,7 +57,7 @@
 
 ## 📬 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
+[![Яндекс Чат](https://img.shields.io/badge/Яндекс_Чат-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)](https://yandex.ru/chat/#/join/bdd4c9b1-86dc-4f9b-8175-cdd3072d9dc1)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gstudini@gmail.com)
 
 ---
