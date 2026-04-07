@@ -1,6 +1,6 @@
 # Привет! Я Ильдар 👋
 
-Начинающий Frontend-разработчик из Уфы. Собираю интерфейсы на React и TypeScript. Изучал JavaScript на учебных проектах.
+Frontend-разработчик из Уфы. Собираю интерфейсы на React, TypeScript и JavaScript.
 
 ---
 
