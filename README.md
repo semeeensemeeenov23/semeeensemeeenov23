@@ -55,6 +55,11 @@ Frontend-разработчик из Уфы. Собираю интерфейсы
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gstudini@gmail.com)
 [![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/klementsru)
 
+## 📬 Связаться со мной
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gstudini@gmail.com)
+[![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/klementsru)
+
 ---
 
 *Рассматриваю предложения о работе в команде.*
